@@ -2,7 +2,7 @@
 
 Questa repo contiene quanto preparato per l'esame di Data Mining.
 
-Struttura della repo:
+Struttura del repo:
 - **img**: contiene le immagini del dataset;
 - **plots**: contiene i grafici creati;
 - **PresentazioneDataMining.pdf**: presentazione del lavoro;
